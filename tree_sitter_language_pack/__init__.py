@@ -30,6 +30,7 @@ SupportedLanguage = Literal[
     "chatito",
     "clarity",
     "clojure",
+    "clingo",
     "cmake",
     "comment",
     "commonlisp",

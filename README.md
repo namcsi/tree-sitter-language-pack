@@ -78,6 +78,7 @@ Each language below is identified by the key used to retrieve it from the `get_l
 - [chatito](https://github.com/tree-sitter-grammars/tree-sitter-chatito) - MIT License
 - [clarity](https://github.com/xlittlerag/tree-sitter-clarity) - MIT License
 - [clojure](https://github.com/sogaiu/tree-sitter-clojure) - CC0 1.0 Universal License
+- [clingo](https://github.com/potassco/tree-sitter-clingo) - MIT Licence
 - [cmake](https://github.com/uyha/tree-sitter-cmake) - MIT License
 - [comment](https://github.com/stsewd/tree-sitter-comment) - MIT License
 - [commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) - MIT License
